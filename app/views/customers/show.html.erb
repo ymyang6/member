@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>명명:</strong>
+  <%= @customer.name %>
+</p>
+
+<p>
+  <strong>연락처:</strong>
+  <%= @customer.phone %>
+</p>
+
+<p>
+  <strong>주소:</strong>
+  <%= @customer.email %>
+</p>
+
+<%= link_to 'Edit', edit_customer_path(@customer) %> |
+<%= link_to 'Back', customers_path %>
