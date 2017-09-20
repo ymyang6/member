@@ -1,27 +1,6 @@
 # README
 
 
-오눌 처음으롤 git 을 사용합니다.
+## 오늘 처음으로 git을 사용합니다.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### 사용자가 사용하기 쉽게 제작하려 합니다.
