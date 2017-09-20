@@ -1,5 +1,8 @@
 # README
 
+
+오눌 처음으롤 git 을 사용합니다.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
